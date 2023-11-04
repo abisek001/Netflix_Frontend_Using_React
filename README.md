@@ -11,21 +11,21 @@ This is a Netflix clone project that includes the following pages: Sign-up, Logi
 
 In the project directory, you can run:
 
--Sign-up page with Firebase authentication.
--Login page with user validation against Firebase.
--Movie list page with horizontal movie listings and hover effect for movie details.
--Search box and signout option.
--Movie detail page displaying movie information, play button, and more info button.
--Movie list displayed in a grid.
--Video player page with playback controls (back, play, volume, speed).
+1.Sign-up page with Firebase authentication.
+2.Login page with user validation against Firebase.
+3.Movie list page with horizontal movie listings and hover effect for movie details.
+4.Search box and signout option.
+5.Movie detail page displaying movie information, play button, and more info button.
+6.Movie list displayed in a grid.
+7.Video player page with playback controls (back, play, volume, speed).
 
 ### `Prerequisites`
 
 Before you begin, ensure you have met the following requirements:
 
--Firebase account for user authentication.
--A code editor (e.g., Visual Studio Code).
--Node.js and npm installed.
+1.Firebase account for user authentication.
+2.A code editor (e.g., Visual Studio Code).
+3.Node.js and npm installed.
 
 ### `Usage`
 
@@ -50,13 +50,9 @@ Before you begin, ensure you have met the following requirements:
 
 ## Project Structure
 
--src/ contains the source code of the application.
--public/ contains public assets.
--firebase/ contains Firebase configuration.
--components/ contains React components for different pages and UI elements.
+1.src/ contains the source code of the application.
+2.public/ contains public assets.
+3.firebase/ contains Firebase configuration.
+4.components/ contains React components for different pages and UI elements.
 
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 54fcf12 (Netflix frontend using react moved in toto github)
