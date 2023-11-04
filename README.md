@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Zomato-Clone
+# Netflix-Clone
 =======
 # Getting Started with Create React App
 
