@@ -3,7 +3,7 @@
 =======
 Note: Due to size complexcity I delete the node_module folder. so you need to install all dependencies in package.json
 
-# `Getting Started with Create React App`
+# `React App`
 
 This is a Netflix clone project that includes the following pages: Sign-up, Login, Movie List, Movie Detail, and Video Player. It also integrates with Firebase for user authentication.
 
