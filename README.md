@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Netflix Clone Project
 =======
-Note: Due to size complexcity i delete the node_module folder. so you need to install all dependencies in package.json
+Note: Due to size complexcity I delete the node_module folder. so you need to install all dependencies in package.json
 
 # `Getting Started with Create React App`
 
